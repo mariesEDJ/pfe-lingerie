@@ -1,3 +1,32 @@
+<!--  header-fixed-wrapper-->	 
+
+<div id="single-article" class="content single-view cat-culture">
+   <button class="gotoTop" id='top-btn'><i class="fa fa-caret-up"></i></button>	
+   <section class="left" id="left-col">
+ 
+    <div class="hidden" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+		  <a href="http://cheekmagazine.fr" itemprop="url">
+		    <span itemprop="title">Accueil</span>
+		  </a> ›
+		</div>    
+   
+   <div class="hidden" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+		  <a href="http://cheekmagazine.fr/culture/" itemprop="url">
+		    <span itemprop="title">culture</span>
+		  </a> ›
+		</div>  
+		
+   <div class="hidden" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+		  <a href="http://cheekmagazine.fr/culture/pretty-woman-film-2019/" itemprop="url">
+		    <span itemprop="title">“Pretty Woman” est-il un film problématique en 2019?</span>
+		  </a>
+		</div>  
+		
+
+   
+      <article class="single-article" id="post-66443" itemscope itemtype="http://schema.org/BlogPosting">
+		      
+		<a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>Cheek</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>Cheek Magazine</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>Clément Arbrun</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>conte de fées</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>empowerment</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>Garry Marshall</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>Julia Roberts</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>pretty woman</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>prince charmant</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>princesse</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>prostituée</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>prostitution</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>richard gere</strong></a><a href='http://cheekmagazine.fr/culture/pretty-woman-film-2019/' class='hidden'><strong itemprop='keywords'>Vivian Ward</strong></a>                   <header class="entry-header">
               <h4><span class="bull">&bull;</span><span class="category" itemprop="articleSection">culture</span></h4>
                             <h1 class="entry-title" itemprop="name">“Pretty Woman” est-il un film problématique en 2019?</h1>
               <div class="entry-meta date-article">
@@ -95,161 +124,3 @@
          </div>
 
       </article>
-      
-      <section class="same-category">
-         
-       
-         <article class="same-category-item">
-            <a href="http://cheekmagazine.fr/culture/tuca-bertie-serie-animation-feministe-netflix/" itemprop="url">“Tuca & Bertie”: L'illustratrice de “BoJack Horseman” lance sa série d'animation féministe sur Netflix</a>
-            <section class="content-push ">
-            <header>
-               <h1>1. “Tuca & Bertie”: L'illustratrice de “BoJack Horseman” lance sa série d'animation féministe sur Netflix</h1>
-            </header>
-            
-            <div class="teaser">
-                            L&rsquo;illustratrice et directrice artistique de BoJack Horseman lance sur Netflix Tuca &amp; Bertie, une série aussi hilarante que féministe, avec les voix d&rsquo;Ali Wong et Tiffany Haddish.
-                          </div>
-            </section>
-                           <div class="preview">
-                  <div class="bgdSize" data-width="225" data-height="150">
-                     <figure style="width:100%">
-                     	<img src="http://cheekmagazine.fr/wp-content/uploads/2019/04/Webp.net-resizeimage-2019-04-29T141557.920-225x150.jpg" alt="“Pretty Woman”, DR - Cheek Magazine">
-            					<figcaption style="display:none">“Pretty Woman”, DR</figcaption>
-            				</figure>
-                  </div>
-               </div>
-               
-           
-
-         </article>
-
-
-       
-         <article class="same-category-item">
-            <a href="http://cheekmagazine.fr/culture/manifesto-xxi-media-inclusif-celebre-marges/" itemprop="url">Elles ont lancé “Manifesto XXI”, le média inclusif qui célèbre les marges</a>
-            <section class="content-push ">
-            <header>
-               <h1>2. Elles ont lancé “Manifesto XXI”, le média inclusif qui célèbre les marges</h1>
-            </header>
-            
-            <div class="teaser">
-                            Rencontre avec l&rsquo;équipe de Manifesto XXI, à l&rsquo;occassion des cinq ans de ce média en ligne qui ne fait rien comme les autres. 
-                          </div>
-            </section>
-                           <div class="preview">
-                  <div class="bgdSize" data-width="225" data-height="150">
-                     <figure style="width:100%">
-                     	<img src="http://cheekmagazine.fr/wp-content/uploads/2019/04/Webp.net-resizeimage-2019-04-29T144929.709-225x150.jpg" alt="“Pretty Woman”, DR - Cheek Magazine">
-            					<figcaption style="display:none">“Pretty Woman”, DR</figcaption>
-            				</figure>
-                  </div>
-               </div>
-               
-           
-
-         </article>
-
-
-       
-         <article class="same-category-item">
-            <a href="http://cheekmagazine.fr/culture/3-films-feministes-cinema/" itemprop="url">3 films féministes à voir au cinéma cette semaine</a>
-            <section class="content-push ">
-            <header>
-               <h1>3. 3 films féministes à voir au cinéma cette semaine</h1>
-            </header>
-            
-            <div class="teaser">
-                            On vous montre les trois bandes-annonces qui nous donnent envie d&rsquo;aller au cinéma cette semaine. 
-                          </div>
-            </section>
-                           <div class="preview">
-                  <div class="bgdSize" data-width="225" data-height="150">
-                     <figure style="width:100%">
-                     	<img src="http://cheekmagazine.fr/wp-content/uploads/2019/04/Webp.net-resizeimage-2019-04-29T120518.797-225x150.jpg" alt="“Pretty Woman”, DR - Cheek Magazine">
-            					<figcaption style="display:none">“Pretty Woman”, DR</figcaption>
-            				</figure>
-                  </div>
-               </div>
-               
-           
-
-         </article>
-
-
-       
-         <article class="same-category-item">
-            <a href="http://cheekmagazine.fr/culture/cheeklist-printemps-2019-4-essais-feministes/" itemprop="url">La Cheek-list du printemps 2019: 4 essais féministes pour refaire le monde</a>
-            <section class="content-push ">
-            <header>
-               <h1>4. La Cheek-list du printemps 2019: 4 essais féministes pour refaire le monde</h1>
-            </header>
-            
-            <div class="teaser">
-                            Si les beaux jours vous donnent des envies d’évasion, il y a ces mois-ci matière à rêver à un monde meilleur, avec quatre publications réjouissantes.
-&nbsp;
-                          </div>
-            </section>
-                           <div class="preview">
-                  <div class="bgdSize" data-width="225" data-height="150">
-                     <figure style="width:100%">
-                     	<img src="http://cheekmagazine.fr/wp-content/uploads/2019/04/Carrie-225x150.jpg" alt="“Pretty Woman”, DR - Cheek Magazine">
-            					<figcaption style="display:none">“Pretty Woman”, DR</figcaption>
-            				</figure>
-                  </div>
-               </div>
-               
-           
-
-         </article>
-
-
-       
-         <article class="same-category-item">
-            <a href="http://cheekmagazine.fr/culture/viv-albertine-feminisme-punk/" itemprop="url">Le féminisme est-il héréditaire? On a demandé à Viv Albertine, la plus punk des autrices</a>
-            <section class="content-push ">
-            <header>
-               <h1>5. Le féminisme est-il héréditaire? On a demandé à Viv Albertine, la plus punk des autrices</h1>
-            </header>
-            
-            <div class="teaser">
-                            Ancienne guitariste et parolière du groupe punk féminin The Slits, Viv Albertine a opéré une reconversion magistrale en tant qu&rsquo;écrivaine. Son deuxième livre, À Jeter sans ouvrir, vient de paraître. Rencontre. 
-                          </div>
-            </section>
-                           <div class="preview">
-                  <div class="bgdSize" data-width="225" data-height="150">
-                     <figure style="width:100%">
-                     	<img src="http://cheekmagazine.fr/wp-content/uploads/2019/04/ALBERTINE-Viv-Credit-Laura-Hynd-225x150.jpg" alt="“Pretty Woman”, DR - Cheek Magazine">
-            					<figcaption style="display:none">“Pretty Woman”, DR</figcaption>
-            				</figure>
-                  </div>
-               </div>
-               
-           
-
-         </article>
-
-
-       
-         <article class="same-category-item">
-            <a href="http://cheekmagazine.fr/culture/la-vie-de-jeune-fille-evjf-arte/" itemprop="url">EVJF et désillusions: “La vie de jeune fille”, un court métrage à ne pas manquer sur Arte</a>
-            <section class="content-push ">
-            <header>
-               <h1>6. EVJF et désillusions: “La vie de jeune fille”, un court métrage à ne pas manquer sur Arte</h1>
-            </header>
-            
-            <div class="teaser">
-                            Ce court-métrage que l&rsquo;on soutient depuis le début est enfin diffusé Arte. 
-                          </div>
-            </section>
-                           <div class="preview">
-                  <div class="bgdSize" data-width="225" data-height="150">
-                     <figure style="width:100%">
-                     	<img src="http://cheekmagazine.fr/wp-content/uploads/2019/04/LVJF2-225x150.jpg" alt="“Pretty Woman”, DR - Cheek Magazine">
-            					<figcaption style="display:none">“Pretty Woman”, DR</figcaption>
-            				</figure>
-                  </div>
-               </div>
-               
-           
-
-         </article>
